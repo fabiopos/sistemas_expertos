@@ -1,0 +1,10 @@
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\bin\Debug\carros.clp
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\bin\Debug\SECarros.exe.config
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\bin\Debug\SECarros.exe
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\bin\Debug\SECarros.pdb
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\bin\Debug\Mommosoft.ExpertSystem.dll
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\obj\Debug\SECarros.Form1.resources
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\obj\Debug\SECarros.Properties.Resources.resources
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\obj\Debug\SECarros.csproj.GenerateResource.Cache
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\obj\Debug\SECarros.exe
+F:\Universidad\Sistemas Expertos\PROYECTO\example\CLIPS.NET\SECarros\obj\Debug\SECarros.pdb
